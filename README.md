@@ -9,21 +9,31 @@ This template, designed for Microsoft Visual Studio, provides the standard file 
 
 SkyLite is a .NET framework for rapidly building modern, data-driven web applications. It uses a server-centric model where your UI is controlled by server-side C# or VB.NET, and client-server communication is handled by a lightweight, built-in AJAX engine. This allows you to leverage your .NET skills to create responsive, interactive web pages with minimal custom JavaScript, all within the familiar Visual Studio environment.
 
-For more information : https://www.theskylite.com/document
+
+SKYLITE framework
+Platform: IIS / .Net framework 4.5 +
+
+SKYNET framework
+Platform: ASP.NET Core / .NET 10
+Architecture: Middleware-based 
+
+Technical Documents : https://www.theskylite.com/document
+Showcase Demo. Site: https://www.theskylite.com/SkyLiteProject
+Download GitHub: https://github.com/hkim6000/SkyNetDemo-AspNetCore
 
 
 <h3>Project Structure</h3>
 
 This template has created the official SkyLite folder structure. The framework relies on these specific folders to automatically locate and link your files.
 
-- <b>/App_Code/</b>
+- <b>/App_Code/</b> or <b>/codes/</b>
   Place all your server-side page logic files here (e.g., MyPage.cs, MyPage.vb). Every page class MUST inherit from `skylite.WebPage`.
 
 - <b>/appConfig/</b>
   Contains application configuration files, such as `application.cfg` for database connection strings and other global settings.
 
 - <b>/bin/</b>
-  Contains the required `skylite.dll`. Do not remove this file.
+  Contains the required `skylite.dll`/'skynet.dll'. 
 
 - <b>/data/</b>
   A general-purpose folder for data files like SQLite databases, CSVs, etc.
