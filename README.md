@@ -1,6 +1,6 @@
-<h2>Visual Studio Project Template for SkyLite Framework v 2.0.8.1</h2>
+<h2>Visual Studio Project Template for SkyLite Framework v 2.0.8.8</h2>
 
-02/15/2026
+03/03/2026
 
 This template, designed for Microsoft Visual Studio, provides the standard file and folder structure to get you started quickly.
 
@@ -9,7 +9,7 @@ This template, designed for Microsoft Visual Studio, provides the standard file 
 
 SkyLite is a .NET framework for rapidly building modern, data-driven web applications. It uses a server-centric model where your UI is controlled by server-side C# or VB.NET, and client-server communication is handled by a lightweight, built-in AJAX engine. This allows you to leverage your .NET skills to create responsive, interactive web pages with minimal custom JavaScript, all within the familiar Visual Studio environment.
 
-<br><br>
+<br>
 - SKYLITE framework<br>
 Platform: IIS / .Net framework 4.5 +<br>
 
