@@ -1,4 +1,4 @@
-<h2>Visual Studio Project Template for SkyLite Framework v 2.0.8.8</h2>
+<h2>Visual Studio Project Template for SkyLite Framework v 2.0.9.0</h2>
 
 03/03/2026
 
